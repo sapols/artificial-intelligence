@@ -81,7 +81,7 @@ object PerceptronRun extends App {
    * Checks to see if the perceptron is consistently correct as a result of training.
    * This means that regardless of B, if A & C are 1 then output is 1. Else, 0
    * (within like, 3 decimal points).
-   * TODO: fucking do this right.
+   * TODO: do this right.
    */
   def perceptronHasLearned(p: Perceptron): Boolean = {
 //    var hasLearned: Boolean = true
