@@ -1,6 +1,6 @@
 # artificial-intelligence
 
-Code written for assignments in an intro to AI class. Contains:
+Intriguing assignment code written in an intro to AI course. Contains:
 
 - A decision tree builder which uses entropy calculations to turn example car buying choices into a decision tree.
 - A "Game of SIM" implementation which plays a human against a computer player using a map of points to model the game grid.
